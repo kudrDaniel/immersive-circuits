@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package ru.duckcoder.immersivecircuits;
 
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
